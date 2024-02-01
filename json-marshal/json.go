@@ -12,7 +12,7 @@ type Person struct {
 	HairColor string `json:"hair_color"`
 	HasDog    bool   `json:"has_dog"`
 }
-
+ 
 func main() {
 
 	// convert to struct from json
