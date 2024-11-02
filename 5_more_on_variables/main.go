@@ -5,7 +5,6 @@ import "fmt"
 const s string = "constant"
 
 func main() {
-	fmt.Println("Hi there!")
 
 	// values in golang
 	fmt.Println("go" + "lang")
