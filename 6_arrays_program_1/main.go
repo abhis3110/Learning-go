@@ -9,7 +9,7 @@ func main() {
 	fmt.Println(a[0], a[1])
 	fmt.Println(a)
 
-	var b = [2]string{"Hello", "Coding"}
+	var b = [2]string{"Hello", "Coding"} // initialize string array
 	fmt.Println(b[0], b[1])
 
 
