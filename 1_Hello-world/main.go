@@ -6,7 +6,7 @@ import (
 
 func main() {
 
-	var whatToSay string // declare a variable of type string
+	var whatToSay string // declare a variable of type
 	var i int
 
 	whatToSay = "Goodbye, cruel world" // initialize
