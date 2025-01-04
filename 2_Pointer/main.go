@@ -3,10 +3,12 @@ package main
 import "log"
 
 func main() {
-	var myString string
-	myString = "Green"
+	var myString string = "Green"
+
 	log.Println("My string is set to", myString)
+
 	changeUsingPointer(&myString)
+
 	log.Println("After function call my string is set to", myString)
 }
 
